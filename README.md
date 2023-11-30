@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Alves 👋 💻
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={Gabriel-Alves-TI}&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Alves-TI&theme=blue-green)
 
 ### Tecnologias
 

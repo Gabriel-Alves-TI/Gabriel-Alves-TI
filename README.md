@@ -14,11 +14,7 @@
 
 <div style="display: inline_block">
     <img align="center" alt="Java" height=60 src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png">
-    <img align="center" alt="PostgreSQL" height=60 src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-4.png">
-    <img align="center" alt="PHP" height=60 src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png">
     <img align="center" alt="Spring" height=60 src="https://www.svgrepo.com/show/354380/spring-icon.svg">
-    <img align="center" alt="MySQL" height=60 src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png">
-    <img align="center" alt="PostgreSQL" height=60 src="https://miro.medium.com/v2/resize:fit:600/1*jk5ExetrwM-G_XCiEgUTKQ.png">
 </div>
 <br>
 

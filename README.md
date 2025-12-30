@@ -8,7 +8,7 @@
 
 <br>
 
-![Linguagens Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Alves-TI&layout=donut&text_color=FFFAFA&bg_color=191970&title_color=FFFAFA&hide_border=true&border_radius=8)
+![Linguagens Utilizadas](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabriel-Alves-TI&theme=blueberry)
 
 # *Tecnologias estudadas*
 

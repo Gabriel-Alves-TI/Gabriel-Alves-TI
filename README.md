@@ -15,10 +15,13 @@
 <div style="display: inline_block">
     <img align="center" alt="Bootstrap" width="70" src="https://user-images.githubusercontent.com/2327532/39481401-fa7d2992-4d30-11e8-886d-c4a3ee88147f.png">
     <img align="center" alt="HTML JS CSS" width="180" src="https://pandaprogrammer.com/wp-content/uploads/2021/11/watermark-1024x388.png">
-    <img align="center" alt="C#" width="80" src="https://dfilitto.blog.br/wp-content/uploads/2019/03/nodejs-new-pantone-black.png">
-    <img align="center" alt="C#" width="60" src="https://avatars.githubusercontent.com/u/3591786?v=4">
-    <img align="center" alt="C#" width="80" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
+    <img align="center" alt="Node" width="80" src="https://dfilitto.blog.br/wp-content/uploads/2019/03/nodejs-new-pantone-black.png">
+    <img align="center" alt="Sequelize" width="60" src="https://avatars.githubusercontent.com/u/3591786?v=4">
+    <img align="center" alt="MySQL" width="80" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png">
     <img align="center" alt="C#" width="50" src="https://media.licdn.com/dms/image/v2/D4D12AQEfpm1hZiEN6Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1673639331003?e=2147483647&v=beta&t=k4YoXJ8P4bwvim0gwUwtQ1hMfu-TdqVlvFa-iJY9LtY">
+    <img align="center" alt=".NET" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/500px-.NET_Core_Logo.svg.png">
+    <img align="center" alt="SQLServer" width="60" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png">
+    <img align="center" alt="Docker" width="50" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
 </div>
 <br>
 
